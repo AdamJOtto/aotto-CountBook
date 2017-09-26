@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Sep 26 13:32:10 MDT 2017
+base.0=/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9fd7796d7a0c7d5293f6eb8bf19c392d36b6fcaf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ff6547ae8fad5c817d37ba26115867f894fc2e84/classes.dex
+base.1=/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ff6547ae8fad5c817d37ba26115867f894fc2e84
+file.0=/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9fd7796d7a0c7d5293f6eb8bf19c392d36b6fcaf/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/afs/ualberta.ca/home/a/o/aotto/AndroidStudioProjects/aotto-CountBook/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/a/o/aotto/.android/build-cache/a8144e608fe71606bf3cd260d957e49a2443596d/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
