@@ -1,4 +1,5 @@
 This app can be run by opening the project in android studios and running it on an android emulator.
+IMPORTANT: To make sure the project runs correctly, select Build -> Clean Project before running.
 This app was tested using the Nexus 5X API 26:5554 emulator.
 
 A video showing how to navigate through the app can be found at the provided link.
